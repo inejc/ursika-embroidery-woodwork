@@ -28,6 +28,9 @@ remote_theme: mmistakes/minimal-mistakes@4.20.1
 # Outputting
 timezone: Europe/Ljubljana # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+url: "https://inejc.github.io"
+baseurl: "ursika-embroidery-woodwork"
+
 include:
   - _pages
 
