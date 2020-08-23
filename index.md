@@ -7,8 +7,8 @@ header:
   image: /assets/images/splash.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 <div class="text-center">
-  <a href="/items" class="btn btn--success btn--large">Browse my artwork</a>
+  Here goes a short text about what Ursa does. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. You can read more about me <a href="{{ site.baseurl }}/about" class="">here</a>.
 </div>
+
+<div></div>
