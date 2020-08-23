@@ -8,7 +8,7 @@ header:
 ---
 
 <div class="text-center">
-  Here goes a short text about what Ursa does. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. You can read more about me <a href="{{ site.baseurl }}/about" class="">here</a>.
+  Here goes a short text about what Ursa does. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. You can read more about me <a href="{{ site.url }}/about" class="">here</a>.
 </div>
 
 <div></div>
