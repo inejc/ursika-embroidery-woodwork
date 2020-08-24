@@ -4,9 +4,10 @@
 
 @charset "utf-8";
 
-$link-color: green;
+$link-color: #687f6d;
 a {
   text-decoration: none;
+  font-weight: bold;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
