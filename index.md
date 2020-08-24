@@ -46,7 +46,7 @@ gallery:
 ---
 
 <div class="text-center">
-  <div style="margin-bottom: 2%;">
+  <div style="margin-bottom: 5%;">
     <i class="fab fa-fw fa-instagram"></i>: <a href="https://www.instagram.com/ursika__" style="margin-right: 2%;" target="_blank">ursika__</a>
     <i class="far fa-fw fa-envelope" style="margin-left: 2%;"></i>: <a href="mailto:ursa.ilenic@gmail.com">ursa.ilenic@gmail.com</a>
   </div>
