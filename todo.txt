@@ -1,0 +1,12 @@
+- mobile vecji logo
+- probi zamenjat font
+- pod slikami vecja pisava
+- dodaj prave slike
+- klik na logo gre na prvo stran
+- favicon.ico
+- dodaj daljsi in krajsi opis
+- prevod anglescina in slovenscina
+- ursika art email
+- na stran dodaj vejice
+- google analytics
+- zmanjsaj velikost slik

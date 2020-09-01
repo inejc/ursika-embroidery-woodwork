@@ -7,42 +7,66 @@ header:
   image: /assets/images/splash.png
 
 gallery:
-  - image_path: /assets/images/items/necklace-banana-1.jpg
-    url: /assets/images/items/necklace-banana-1.jpg
-    alt: "Banana necklace"
-    title: "Banana necklace"
-  - image_path: /assets/images/items/necklace-multiple-1.jpg
-    url: /assets/images/items/necklace-multiple-1.jpg
-    alt: "Bunch of necklaces"
-    title: "Bunch of necklaces"
-  - image_path: /assets/images/items/necklace-cherry-1.jpg
-    url: /assets/images/items/necklace-cherry-1.jpg
-    alt: "Cherry necklace"
-    title: "Cherry necklace"
-  - image_path: /assets/images/items/necklace-banana-1.jpg
-    url: /assets/images/items/necklace-banana-1.jpg
-    alt: "Banana necklace"
-    title: "Banana necklace"
-  - image_path: /assets/images/items/necklace-multiple-1.jpg
-    url: /assets/images/items/necklace-multiple-1.jpg
-    alt: "Bunch of necklaces"
-    title: "Bunch of necklaces"
-  - image_path: /assets/images/items/necklace-cherry-1.jpg
-    url: /assets/images/items/necklace-cherry-1.jpg
-    alt: "Cherry necklace"
-    title: "Cherry necklace"
-  - image_path: /assets/images/items/necklace-banana-1.jpg
-    url: /assets/images/items/necklace-banana-1.jpg
-    alt: "Banana necklace"
-    title: "Banana necklace"
-  - image_path: /assets/images/items/necklace-multiple-1.jpg
-    url: /assets/images/items/necklace-multiple-1.jpg
-    alt: "Bunch of necklaces"
-    title: "Bunch of necklaces"
-  - image_path: /assets/images/items/necklace-cherry-1.jpg
-    url: /assets/images/items/necklace-cherry-1.jpg
-    alt: "Cherry necklace"
-    title: "Cherry necklace"
+  - image_path: /assets/images/items/les-aqua-1.jpg
+    url: /assets/images/items/les-aqua-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-banana-1.jpg
+    url: /assets/images/items/les-banana-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-češnje-2.jpg
+    url: /assets/images/items/les-češnje-2.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-drevo-1.jpg
+    url: /assets/images/items/les-drevo-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-list-1.jpg
+    url: /assets/images/items/les-list-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-roza-pentlja-drugič-1.jpg
+    url: /assets/images/items/les-roza-pentlja-drugič-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-črno-drevo-2.jpg
+    url: /assets/images/items/les-črno-drevo-2.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-dot-heart-4.jpg
+    url: /assets/images/items/les-dot-heart-4.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-listki-1.jpg
+    url: /assets/images/items/les-listki-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-luna-1.jpg
+    url: /assets/images/items/les-luna-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-marjetica-3D-2.jpg
+    url: /assets/images/items/les-marjetica-3D-2.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-oblak-nov-1.jpg
+    url: /assets/images/items/les-oblak-nov-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-tulipana-1.jpg
+    url: /assets/images/items/les-tulipana-1.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-rožice-okrogla-2.jpg
+    url: /assets/images/items/les-rožice-okrogla-2.jpg
+    alt: "TODO"
+    title: "TODO"
+  - image_path: /assets/images/items/les-sončnica-1.jpg
+    url: /assets/images/items/les-sončnica-1.jpg
+    alt: "TODO"
+    title: "TODO"
 ---
 
 <div class="text-center">
