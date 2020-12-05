@@ -5,81 +5,150 @@
 layout: splash
 header:
   image: /assets/images/splash.png
+  image_small: /assets/images/splash-small.png
 
 gallery:
-  - image_path: /assets/images/items/les-aqua-1.jpg
-    url: /assets/images/items/les-aqua-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-banana-1.jpg
-    url: /assets/images/items/les-banana-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-češnje-2.jpg
-    url: /assets/images/items/les-češnje-2.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-črno-drevo-2.jpg
-    url: /assets/images/items/les-črno-drevo-2.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-drevo-1.jpg
-    url: /assets/images/items/les-drevo-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-list-1.jpg
-    url: /assets/images/items/les-list-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-listki-grča.jpg
-    url: /assets/images/items/les-listki-grča.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-marjetica-3D-1.jpg
-    url: /assets/images/items/les-marjetica-3D-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-oblak-nov-1.jpg
-    url: /assets/images/items/les-oblak-nov-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-roza-pentlja-drugič-1.jpg
-    url: /assets/images/items/les-roza-pentlja-drugič-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-rožice-okrogla-1.jpg
-    url: /assets/images/items/les-rožice-okrogla-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-sončnica-1.jpg
-    url: /assets/images/items/les-sončnica-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-luna-1.jpg
-    url: /assets/images/items/les-luna-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-listki-1.jpg
-    url: /assets/images/items/les-listki-1.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-dot-heart-4.jpg
-    url: /assets/images/items/les-dot-heart-4.jpg
-    alt: "TODO"
-    title: "TODO"
-  - image_path: /assets/images/items/les-tulipana-1.jpg
-    url: /assets/images/items/les-tulipana-1.jpg
-    alt: "TODO"
-    title: "TODO"
+  - image_path: assets/images/items/les HP 1.JPG
+    url: assets/images/items/les HP 1.JPG
+    alt: "Vezena lesena verižica Harry Potter, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 17€"
+    title: "Vezena lesena verižica Harry Potter, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 17€"
+  - image_path: assets/images/items/les N + P 1.JPG
+    url: assets/images/items/les N + P 1.JPG
+    alt: "Vezena lesena verižica Vrtnice, premer 3,6cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Vrtnice, premer 3,6cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les aqua 1.JPG
+    url: assets/images/items/les aqua 1.JPG
+    alt: "Vezena lesena verižica Aqua, 2,8cm x 4,5cm, tikovina, lakirana z lakom brez sijaja, cena 17€"
+    title: "Vezena lesena verižica Aqua, 2,8cm x 4,5cm, tikovina, lakirana z lakom brez sijaja, cena 17€"
+  - image_path: assets/images/items/les avokado 1.JPG
+    url: assets/images/items/les avokado 1.JPG
+    alt: "Vezena lesena verižica Avokado, 2,9cm x 5,8cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Avokado, 2,9cm x 5,8cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les avokado 2.JPG
+    url: assets/images/items/les avokado 2.JPG
+    alt: "Vezena lesena verižica Avokado, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Avokado, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les avokado 3 tikovina.JPG
+    url: assets/images/items/les avokado 3 tikovina.JPG
+    alt: "Vezena lesena verižica Avokado, 2,8cm x 5,8cm, tikovina, lakirana, cena 20 €"
+    title: "Vezena lesena verižica Avokado, 2,8cm x 5,8cm, tikovina, lakirana, cena 20 €"
+  - image_path: assets/images/items/les avokado 4.JPG
+    url: assets/images/items/les avokado 4.JPG
+    alt: "Vezena lesena verižica Avokado, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Avokado, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les banana 1.JPG
+    url: assets/images/items/les banana 1.JPG
+    alt: "Vezena lesena verižica Banana, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Banana, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les drevo 1.JPG
+    url: assets/images/items/les drevo 1.JPG
+    alt: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les drevo 2.JPG
+    url: assets/images/items/les drevo 2.JPG
+    alt: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+    title: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+  - image_path: assets/images/items/les drevo 3.JPG
+    url: assets/images/items/les drevo 3.JPG
+    alt: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les drevo 4.JPG
+    url: assets/images/items/les drevo 4.JPG
+    alt: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les drevo 5.JPG
+    url: assets/images/items/les drevo 5.JPG
+    alt: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Drevo, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les list 1.JPG
+    url: assets/images/items/les list 1.JPG
+    alt: "Vezena lesena verižica Listek, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 18€"
+    title: "Vezena lesena verižica Listek, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 18€"
+  - image_path: assets/images/items/les listki vejica 1.JPG
+    url: assets/images/items/les listki vejica 1.JPG
+    alt: "Vezena lesena verižica Vejica, 3,1cm x 6,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+    title: "Vezena lesena verižica Vejica, 3,1cm x 6,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+  - image_path: assets/images/items/les luna 1.JPG
+    url: assets/images/items/les luna 1.JPG
+    alt: "Vezena lesena verižica Luna, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+    title: "Vezena lesena verižica Luna, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+  - image_path: assets/images/items/les marjetica 3D 1.JPG
+    url: assets/images/items/les marjetica 3D 1.JPG
+    alt: "Vezena lesena verižica Planika, premer 3,6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Planika, premer 3,6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les monstera 1.JPG
+    url: assets/images/items/les monstera 1.JPG
+    alt: "Vezena lesena verižica Monstera, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Monstera, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les oblak 1.JPG
+    url: assets/images/items/les oblak 1.JPG
+    alt: "Vezena lesena verižica Oblak, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Oblak, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les oblak 2.JPG
+    url: assets/images/items/les oblak 2.JPG
+    alt: "Vezena lesena verižica Oblak, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Oblak, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les oblak 3.JPG
+    url: assets/images/items/les oblak 3.JPG
+    alt: "Vezena lesena verižica Oblak, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+    title: "Vezena lesena verižica Oblak, 2,9cm x 5,9cm, hrast, lakirana, cena 19€"
+  - image_path: assets/images/items/les orhideja 1.JPG
+    url: assets/images/items/les orhideja 1.JPG
+    alt: "Vezena lesena verižica Orhideja, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Orhideja, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les palm tree 1.JPG
+    url: assets/images/items/les palm tree 1.JPG
+    alt: "Vezena lesena verižica Palma, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Palma, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les roza pentlja 1.JPG
+    url: assets/images/items/les roza pentlja 1.JPG
+    alt: "Vezena lesena verižica Rožnata pentlja, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Rožnata pentlja, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les sončnica 1.JPG
+    url: assets/images/items/les sončnica 1.JPG
+    alt: "Vezena lesena verižica Sončnica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Sončnica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les srček 1.JPG
+    url: assets/images/items/les srček 1.JPG
+    alt: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les srček dots 1.JPG
+    url: assets/images/items/les srček dots 1.JPG
+    alt: "Vezena lesena verižica Srček french knot, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Srček french knot, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les trije listki 1.JPG
+    url: assets/images/items/les trije listki 1.JPG
+    alt: "Vezena lesena verižica Vejica s tremi listki, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+    title: "Vezena lesena verižica Vejica s tremi listki, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+  - image_path: assets/images/items/les tulipana 1.JPG
+    url: assets/images/items/les tulipana 1.JPG
+    alt: "Vezena lesena verižica Tulipan, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Tulipan, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les vejica 1.JPG
+    url: assets/images/items/les vejica 1.JPG
+    alt: "Vezena lesena verižica Vejica, 3,1cm x 6,4cm, hrast, lakirana z lakom brez sijaja, cena 17€ "
+    title: "Vezena lesena verižica Vejica, 3,1cm x 6,4cm, hrast, lakirana z lakom brez sijaja, cena 17€ "
+  - image_path: assets/images/items/les vrtnice 1.JPG
+    url: assets/images/items/les vrtnice 1.JPG
+    alt: "Vezena lesena verižica Vrtnice, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Vrtnice, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les zimsko drevo 1.JPG
+    url: assets/images/items/les zimsko drevo 1.JPG
+    alt: "Vezena lesena verižica Zimsko drevo, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 18€"
+    title: "Vezena lesena verižica Zimsko drevo, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 18€"
+  - image_path: assets/images/items/les češnji 1.JPG
+    url: assets/images/items/les češnji 1.JPG
+    alt: "Vezena lesena verižica Češnji, 2,9cm x 5,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
+    title: "Vezena lesena verižica Češnji, 2,9cm x 5,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
 ---
 
 <div class="text-center">
   <div style="margin-bottom: 5%;">
     <i class="fab fa-fw fa-instagram"></i>: <a href="https://www.instagram.com/ursika__" style="margin-right: 2%;" target="_blank">ursika__</a>
-    <i class="far fa-fw fa-envelope" style="margin-left: 2%;"></i>: <a href="mailto:ursa.ilenic@gmail.com">ursa.ilenic@gmail.com</a>
+    <i class="far fa-fw fa-envelope" style="margin-left: 2%;"></i>: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
 
-  Here goes a short text about what Ursa does. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. You can read more about me <a href="{{ site.url }}/about">here</a>.
+  Pri svojem ustvarjanju sem združila dve tradicionalni dejavnosti - oblikovanje lesa in vezenje. Izdelujem unikatne verižice, ki so v celoti narejene ročno iz hrastovega in tikovega lesa. Svoj navdih črpam iz narave, zato je veliko motivov botaničnih. Več o meni in mojih izdelkih pa si lahko prebereš <a href="{{ site.url }}/about">tukaj</a>.
 
 </div>
 

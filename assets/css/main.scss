@@ -10,5 +10,26 @@ a {
   font-weight: bold;
 }
 
+.text-div-top-about-page {
+  margin-top: 2em;
+}
+
+.text-div-bottom-about-page {
+  margin-bottom: 2em;
+}
+
+.image-max-width-about-page {
+  max-width: 25em;
+}
+
+.mfp-title {
+  text-align: left;
+  line-height: 18px;
+  color: #f3f3f3;
+  word-wrap: break-word;
+  padding-right: 36px;
+  font-size: larger;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
