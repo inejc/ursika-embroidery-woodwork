@@ -104,16 +104,16 @@ gallery:
     url: assets/images/items/les roza pentlja 1.JPG
     alt: "Vezena lesena verižica Rožnata pentlja, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
     title: "Vezena lesena verižica Rožnata pentlja, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
-  - image_path: assets/images/items/les sončnica 1.JPG
-    url: assets/images/items/les sončnica 1.JPG
+  - image_path: assets/images/items/les soncnica 1.JPG
+    url: assets/images/items/les soncnica 1.JPG
     alt: "Vezena lesena verižica Sončnica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
     title: "Vezena lesena verižica Sončnica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
-  - image_path: assets/images/items/les srček 1.JPG
-    url: assets/images/items/les srček 1.JPG
+  - image_path: assets/images/items/les srcek 1.JPG
+    url: assets/images/items/les srcek 1.JPG
     alt: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 20€"
     title: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 20€"
-  - image_path: assets/images/items/les srček dots 1.JPG
-    url: assets/images/items/les srček dots 1.JPG
+  - image_path: assets/images/items/les srcek dots 1.JPG
+    url: assets/images/items/les srcek dots 1.JPG
     alt: "Vezena lesena verižica Srček french knot, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
     title: "Vezena lesena verižica Srček french knot, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
   - image_path: assets/images/items/les trije listki 1.JPG
@@ -136,8 +136,8 @@ gallery:
     url: assets/images/items/les zimsko drevo 1.JPG
     alt: "Vezena lesena verižica Zimsko drevo, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 18€"
     title: "Vezena lesena verižica Zimsko drevo, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 18€"
-  - image_path: assets/images/items/les češnji 1.JPG
-    url: assets/images/items/les češnji 1.JPG
+  - image_path: assets/images/items/les cesnji 1.JPG
+    url: assets/images/items/les cesnji 1.JPG
     alt: "Vezena lesena verižica Češnji, 2,9cm x 5,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
     title: "Vezena lesena verižica Češnji, 2,9cm x 5,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
 ---
