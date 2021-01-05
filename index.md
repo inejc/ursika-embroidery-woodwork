@@ -8,6 +8,26 @@ header:
   image_small: /assets/images/splash-small.png
 
 gallery:
+  - image_path: assets/images/items/les ananas 1.jpg
+    url: assets/images/items/les ananas 1.jpg
+    alt: "Vezena lesena verižica Ananas, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Ananas, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"  
+  - image_path: assets/images/items/les deteljica 1.jpg
+    url: assets/images/items/les deteljica 1.jpg
+    alt: "Vezena lesena verižica Deteljica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Deteljica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les deteljica 2.jpg
+    url: assets/images/items/les deteljica 2.jpg
+    alt: "Vezena lesena verižica Deteljica, 3,6cm x 4,5cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Deteljica, 3,6cm x 4,5cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les deznik 1.jpg
+    url: assets/images/items/les deznik 1.jpg
+    alt: "Vezena lesena verižica Dežnik, 2,9cm x 5,5cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+    title: "Vezena lesena verižica Dežnik, 2,9cm x 5,5cm, hrast, lakirana z lakom brez sijaja, cena 20€"
+  - image_path: assets/images/items/les virgo sign 1.jpg
+    url: assets/images/items/les virgo sign 1.jpg
+    alt: "Vezena lesena verižica Astrološko znamenje, 2,9cm x 5,9cm, hrast, lakirana z lakom, cena 20€"
+    title: "Vezena lesena verižica Astrološko znamenje, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
   - image_path: assets/images/items/les HP 1.jpg
     url: assets/images/items/les HP 1.jpg
     alt: "Vezena lesena verižica Harry Potter, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 17€"
