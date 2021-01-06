@@ -36,12 +36,14 @@ h1, h2, h3, h4, h5, h6, .page__footer-copyright {
 .motto {
   text-align: center;
   margin: 0;
-  font-size: 13px;
-  color: black;
+  font-size: 15px;
+  color: black !important;
+  font-weight: bolder;
+  letter-spacing: -.5px;
 }
 
 .page__hero {
-  margin-bottom: 1.7em !important;
+  margin-bottom: 1.8em !important;
 }
 
 .page__footer {
