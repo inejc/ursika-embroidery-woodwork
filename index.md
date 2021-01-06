@@ -168,7 +168,7 @@ gallery:
     <i class="far fa-fw fa-envelope" style="margin-left: 2%;"></i>: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
 
-  Pri svojem ustvarjanju sem združila dve tradicionalni dejavnosti - oblikovanje lesa in vezenje. Izdelujem unikatne verižice, ki so v celoti narejene ročno iz hrastovega in tikovega lesa. Svoj navdih črpam iz narave, zato je veliko motivov botaničnih. Več o meni in mojih izdelkih pa si lahko prebereš <a href="{{ site.url }}/about">tukaj</a>.
+  Pri svojem ustvarjanju sem združila dve tradicionalni dejavnosti - oblikovanje lesa in vezenje. Izdelujem unikatne verižice, ki so v celoti narejene ročno iz hrastovega, tikovega in bukovega lesa. Svoj navdih črpam iz narave, zato je veliko motivov botaničnih. Več o meni in mojih izdelkih pa si lahko prebereš <a href="{{ site.url }}/about">tukaj</a>.
 
 </div>
 
