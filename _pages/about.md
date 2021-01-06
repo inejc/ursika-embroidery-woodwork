@@ -10,7 +10,7 @@ permalink: /about/
   <div style="margin-bottom: 2em;">
     <i class="fab fa-fw fa-instagram"></i> <a href="https://www.instagram.com/ursika__" style="margin-right: 1%;" target="_blank">ursika__</a>
     <i class="fab fa-fw fa-facebook"></i> <a href="https://www.facebook.com/ursika.art" style="margin-right: 1%;" target="_blank">ursika.art</a>
-    <i class="far fa-fw fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <i class="far fa-fw fa-envelope"></i>&nbsp;<a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
 
   <div class="text-div-top-about-page">

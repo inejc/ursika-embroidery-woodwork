@@ -170,7 +170,7 @@ gallery:
   <div style="margin-bottom: 2em;">
     <i class="fab fa-fw fa-instagram"></i> <a href="https://www.instagram.com/ursika__" style="margin-right: 1%;" target="_blank">ursika__</a>
     <i class="fab fa-fw fa-facebook"></i> <a href="https://www.facebook.com/ursika.art" style="margin-right: 1%;" target="_blank">ursika.art</a>
-    <i class="far fa-fw fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <i class="far fa-fw fa-envelope"></i>&nbsp;<a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
 
   Pri svojem ustvarjanju sem združila dve tradicionalni dejavnosti - oblikovanje lesa in vezenje. Izdelujem unikatne verižice, ki so v celoti narejene ročno iz hrastovega, tikovega in bukovega lesa. Svoj navdih črpam iz narave, zato je veliko motivov botaničnih. Več o meni in mojih izdelkih pa si lahko prebereš <a href="{{ site.url }}/about">tukaj</a>.

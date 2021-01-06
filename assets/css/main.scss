@@ -16,11 +16,28 @@ body {
   font-family: autourOneRegular !important;
   line-height: 1.5;
   text-transform: uppercase;
+  background-color: #e6d1ac69;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: white !important;
+  background: #c19453 !important;
+}
+
+::selection {
+  color: white !important;
+  background: #c19453 !important;
+}
+
+.page__footer {
+  background-color: #e6d1ac69 !important;
 }
 
 .page__content {
   font-size: 16px;
 }
+
+.far { display:inline !important; }
 
 $link-color: #687f6d;
 a {
