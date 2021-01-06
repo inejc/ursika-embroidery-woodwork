@@ -19,6 +19,10 @@ body {
   background-color: #e6d1ac69;
 }
 
+h1, h2, h3, h4, h5, h6, .page__footer-copyright {
+  font-family: autourOneRegular !important;
+}
+
 ::-moz-selection { /* Code for Firefox */
   color: white !important;
   background: #c19453 !important;
@@ -27,6 +31,17 @@ body {
 ::selection {
   color: white !important;
   background: #c19453 !important;
+}
+
+.motto {
+  text-align: center;
+  margin: 0;
+  font-size: 13px;
+  color: black;
+}
+
+.page__hero {
+  margin-bottom: 1.5em !important;
 }
 
 .page__footer {
