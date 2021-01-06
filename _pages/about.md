@@ -8,8 +8,9 @@ permalink: /about/
 
 <div class="text-center">
   <div style="margin-bottom: 5%;">
-    <i class="fab fa-fw fa-instagram"></i>: <a href="https://www.instagram.com/ursika__" style="margin-right: 2%;" target="_blank">ursika__</a>
-    <i class="far fa-fw fa-envelope" style="margin-left: 2%;"></i>: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <i class="fab fa-fw fa-instagram"></i> <a href="https://www.instagram.com/ursika__" style="margin-right: 2%;" target="_blank">ursika__</a>
+    <i class="fab fa-fw fa-facebook"></i> <a href="https://www.facebook.com/ursika.art" style="margin-right: 2%;" target="_blank">ursika.art</a>
+    <i class="far fa-fw fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
 
   <div class="text-div-top-about-page">
