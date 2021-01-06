@@ -1,4 +1,3 @@
-- na stran dodaj vejice (slike)
 - prevod anglescina in slovenscina
 - google analytics
 - dodaj moto (iz naravnih materialov ki so odsluzili itd..) to je konkurencna prednost lahko, izpostavi rocno delo, neunicevanje okolja in personaliziranost
