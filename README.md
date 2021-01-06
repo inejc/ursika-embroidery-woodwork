@@ -1,3 +1,6 @@
+### Poženi lokalno
+`bundle exec jekyll serve`
+
 ### Navodila za dodajanje slik
 1. sliko kopiraj v mapo assets/images/items
 2. dodaj novo vrstico formata `"ime datotake brez koncnice": "opis slike"` v datoteko `image_descriptions.json`
