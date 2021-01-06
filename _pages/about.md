@@ -34,7 +34,7 @@ permalink: /about/
   <div class="align-center image-max-width-about-page"><img src="/assets/images/ursa-1.jpg" alt="Urša"></div>
 
   <div class="text-div-top-about-page">
-  Moja pomembna vrednota je varovanje narave in okolja, zato so moji obeski narejeni iz naravnih materialov, ki naj bi že odslužili svojemu namenu, sama pa jim vdihnem novo življenje.
+  Moja pomembna vrednota je varovanje narave in okolja, zato so moji obeski narejeni iz naravnih materialov, ki naj bi že odslužili svojemu namenu, sama pa jim vdahnem novo življenje.
   </div>
 
   <div class="text-div-top-about-page text-div-bottom-about-page">
