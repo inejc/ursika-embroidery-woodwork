@@ -4,6 +4,24 @@
 
 @charset "utf-8";
 
+@font-face {
+  font-family: autourOneRegular;
+  src: url(/assets/fonts/Autour_One/AutourOne-Regular.ttf);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #3d4144;
+  font-family: autourOneRegular !important;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.page__content {
+  font-size: 18px;
+}
+
 $link-color: #687f6d;
 a {
   text-decoration: none;

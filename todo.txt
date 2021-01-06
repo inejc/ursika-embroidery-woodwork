@@ -1,8 +1,6 @@
 - na stran dodaj vejice (slike)
 - prevod anglescina in slovenscina
 - google analytics
-- zamenjaj font
-- dodaj FB povezavo
 - dodaj moto (iz naravnih materialov ki so odsluzili itd..) to je konkurencna prednost lahko, izpostavi rocno delo, neunicevanje okolja in personaliziranost
 - spremeni, da bojo cene vidne ze na prvi strani oziroma da bo jasno da se da kliknit na slike
 - eksplicitno dodaj poziv k dejanju, aka kako kupec kontaktira/kupi izdelek
