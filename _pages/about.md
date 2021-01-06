@@ -21,7 +21,7 @@ permalink: /about/
   KDO SE SKRIVA ZA IMENOM URSIKA?
   </h6>
 
-  Sem Urša Ilenič in trenutno zaključujem študij socialnega dela. V prostem času me najdeš v gozdu, v tekaških copatih, z vrtalnikom v roki, v hribih ali pa pri razvajanju svojih rastlin.
+  Sem Urša in trenutno zaključujem študij socialnega dela. V prostem času me najdeš v gozdu, v tekaških copatih, z vrtalnikom v roki, v hribih ali pa pri razvajanju svojih rastlin.
   </div>
 
   <div class="align-center image-max-width-about-page"><img src="/assets/images/ursa-0.jpg" alt="Urša"></div>
@@ -33,7 +33,7 @@ permalink: /about/
   <div class="align-center image-max-width-about-page"><img src="/assets/images/ursa-1.jpg" alt="Urša"></div>
 
   <div class="text-div-top-about-page">
-  Varovanje narave in okolja mi je zelo pomembna vrednota zato so moji obeski narejeni iz naravnih materialov, ki naj bi že odslužili svojemu namenu, sama pa jim vdihnem novo življenje.
+  Moja pomembna vrednota je varovanje narave in okolja, zato so moji obeski narejeni iz naravnih materialov, ki naj bi že odslužili svojemu namenu, sama pa jim vdihnem novo življenje.
   </div>
 
   <div class="text-div-top-about-page text-div-bottom-about-page">
