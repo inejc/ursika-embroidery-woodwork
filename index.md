@@ -156,6 +156,10 @@ gallery:
     url: assets/images/items/les zimsko drevo 1.jpg
     alt: "Vezena lesena verižica Zimsko drevo, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 18€"
     title: "Vezena lesena verižica Zimsko drevo, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 18€"
+  - image_path: assets/images/items/les deka 1.jpg
+    url: assets/images/items/les deka 1.jpg
+    alt: "Vezena lesena verižica Stkana modrina, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 18€"
+    title: "Vezena lesena verižica Stkana modrina, 2,9cm x 5,9cm, hrast, lakirana z lakom brez sijaja, cena 18€"
   - image_path: assets/images/items/les cesnji 1.jpg
     url: assets/images/items/les cesnji 1.jpg
     alt: "Vezena lesena verižica Češnji, 2,9cm x 5,4cm, hrast, lakirana z lakom brez sijaja, cena 19€"
