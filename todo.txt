@@ -5,3 +5,4 @@
 - eksplicitno dodaj poziv k dejanju, aka kako kupec kontaktira/kupi izdelek
 - podstrani za razlicne kategorije izdelkov
 -zamenjaj pisavo besedila, ko klikneš sliko (z malimi èrkami?) 
+- na prvi strani pod besedilom, kjer piše .... si lahko prebereš tukaj: Pod tem ena prazna vrstica in dodan stavek: Èe ti je kateri od obeskov všeè, mi lahko pišeš na e-mail, Instagram ali Facebook. (ne vem pa kaj bi bl pasal, male al velke èrke?)
