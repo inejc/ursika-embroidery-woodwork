@@ -130,8 +130,8 @@ gallery:
     title: "Vezena lesena verižica Sončnica, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
   - image_path: assets/images/items/les srcek 1.jpg
     url: assets/images/items/les srcek 1.jpg
-    alt: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 20€"
-    title: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 20€"
+    alt: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 19€"
+    title: "Vezena lesena verižica Srček, hrast, lakirana z lakom brez sijaja, cena 19€"
   - image_path: assets/images/items/les srcek dots 1.jpg
     url: assets/images/items/les srcek dots 1.jpg
     alt: "Vezena lesena verižica Srček french knot, 2,9cm x 6cm, hrast, lakirana z lakom brez sijaja, cena 20€"
