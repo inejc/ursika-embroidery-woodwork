@@ -4,3 +4,4 @@
 - spremeni, da bojo cene vidne ze na prvi strani oziroma da bo jasno da se da kliknit na slike
 - eksplicitno dodaj poziv k dejanju, aka kako kupec kontaktira/kupi izdelek
 - podstrani za razlicne kategorije izdelkov
+-zamenjaj pisavo besedila, ko klikneš sliko (z malimi èrkami?) 
