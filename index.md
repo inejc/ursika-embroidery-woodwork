@@ -8,6 +8,34 @@ header:
   image_small: /assets/images/splash-small.png
 
 gallery:
+  - image_path: assets/images/items/les vrtnice srce 1.jpg
+    url: assets/images/items/les vrtnice srce 1.jpg
+    alt: "Vezena lesena verižica Vrtnice v srcu, 2,5cm x 2,5cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Vrtnice v srcu, 2,5cm x 2,5cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les kolutek gore 1.jpg
+    url: assets/images/items/les kolutek gore 1.jpg
+    alt: "Lesena zapestnica Gore, 1,4cm x 1,2cm, hrast, lakirana, cena ene zapestnice 10€"
+    title: "Lesena zapestnica Gore, 1,4cm x 1,2cm, hrast, lakirana, cena ene zapestnice 10€"
+  - image_path: assets/images/items/les viseca rastlina 1.jpg
+    url: assets/images/items/les viseca rastlina 1.jpg
+    alt: "Vezena lesena verižica Viseča rastlina, 2,9cm x 5,9cm, tikovina, lakirana, cena 20€"
+    title: "Vezena lesena verižica Viseča rastlina, 2,9cm x 5,9cm, tikovina, lakirana, cena 20€"
+  - image_path: assets/images/items/les roza pentlja 2.jpg
+    url: assets/images/items/les roza pentlja 2.jpg
+    alt: "Vezena lesena verižica Rožnata pentlja, 2,9cm x 5,9cm, tikovina, lakirana, cena 20€"
+    title: "Vezena lesena verižica Rožnata pentlja, 2,9cm x 5,9cm, tikovina, lakirana, cena 20€"
+  - image_path: assets/images/items/les strela 1.jpg
+    url: assets/images/items/les strela 1.jpg
+    alt: "Vezena lesena verižica Strela, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Strela, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les libra sign 1.jpg
+    url: assets/images/items/les libra sign 1.jpg
+    alt: "Vezena lesena verižica Astrološko znamenje, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Astrološko znamenje, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
+  - image_path: assets/images/items/les aquarius sign 1.jpg
+    url: assets/images/items/les aquarius sign 1.jpg
+    alt: "Vezena lesena verižica Astrološko znamenje, 3,6cm x 4,5cm, hrast, lakirana, cena 20€"
+    title: "Vezena lesena verižica Astrološko znamenje, 3,6cm x 4,5cm, hrast, lakirana, cena 20€"
   - image_path: assets/images/items/les ananas 1.jpg
     url: assets/images/items/les ananas 1.jpg
     alt: "Vezena lesena verižica Ananas, 2,9cm x 5,9cm, hrast, lakirana, cena 20€"
